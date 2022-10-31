@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\cursos\\PlatziWeb\\PlatziWeb.csproj",
+      "projectUniqueName": "D:\\dev\\cursos\\platzi\\platziweb\\platziweb\\PlatziWeb.csproj",
       "projectName": "PlatziWeb",
-      "projectPath": "D:\\dev\\cursos\\PlatziWeb\\PlatziWeb.csproj",
+      "projectPath": "D:\\dev\\cursos\\platzi\\platziweb\\platziweb\\PlatziWeb.csproj",
       "packagesPath": "C:\\Users\\JuanPaco\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\cursos\\PlatziWeb\\obj\\",
+      "outputPath": "D:\\dev\\cursos\\platzi\\platziweb\\platziweb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JuanPaco\\AppData\\Roaming\\NuGet\\NuGet.Config"

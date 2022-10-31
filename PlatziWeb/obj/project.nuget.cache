@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3DCIRJ2MEG01nsd8J7EbgwSrjc7ynigIQvDrhNt14wJIewvz7pkLVU0YRg+qZU1R56hj74AAr6KttcdUe85JMA==",
+  "dgSpecHash": "2FBYpmA14p0rKxO7HHdaS+Aso8Pwcn9pxoIzalpUEpn4QL9YjMLzWHTbcYEqvAC3bRCJv2Wzf4hjJq9BsCMQTA==",
   "success": true,
-  "projectFilePath": "D:\\dev\\cursos\\platziweb\\PlatziWeb.csproj",
+  "projectFilePath": "D:\\dev\\cursos\\platzi\\platziweb\\platziweb\\PlatziWeb.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
