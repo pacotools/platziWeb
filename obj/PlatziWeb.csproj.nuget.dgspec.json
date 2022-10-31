@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dev\\cursos\\platzi\\platziweb\\platziweb\\PlatziWeb.csproj": {}
+    "D:\\dev\\cursos\\platzi\\platziweb\\PlatziWeb.csproj": {}
   },
   "projects": {
-    "D:\\dev\\cursos\\platzi\\platziweb\\platziweb\\PlatziWeb.csproj": {
+    "D:\\dev\\cursos\\platzi\\platziweb\\PlatziWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\cursos\\platzi\\platziweb\\platziweb\\PlatziWeb.csproj",
+        "projectUniqueName": "D:\\dev\\cursos\\platzi\\platziweb\\PlatziWeb.csproj",
         "projectName": "PlatziWeb",
-        "projectPath": "D:\\dev\\cursos\\platzi\\platziweb\\platziweb\\PlatziWeb.csproj",
+        "projectPath": "D:\\dev\\cursos\\platzi\\platziweb\\PlatziWeb.csproj",
         "packagesPath": "C:\\Users\\JuanPaco\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\cursos\\platzi\\platziweb\\platziweb\\obj\\",
+        "outputPath": "D:\\dev\\cursos\\platzi\\platziweb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JuanPaco\\AppData\\Roaming\\NuGet\\NuGet.Config"
