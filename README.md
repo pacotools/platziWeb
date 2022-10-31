@@ -15,4 +15,4 @@ WebApps
 - git push -u origin main
 - en automatico se construye y se despliega la web app en azure
 
-4. Monitoreo del desempeno de mi sitio: En azure revisar con regularidad la seccion Diagnose and solve problems
+4. Monitoreo del desempeno de mi sitio: En azure revisar con regularidad la seccion "Diagnose and solve problems" y "Application Insights"
